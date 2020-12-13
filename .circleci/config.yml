@@ -4,4 +4,4 @@ jobs:
   workflows:
     node-tests:
         jobs:
-            - node/test    
+          - node/test
